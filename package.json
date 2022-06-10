@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-foundation",
+  "version": "1.0.0",
+  "description": "Respositorio para seguir el tutorial de bluuweb de Bootstrap. Frontend Mentor Testimonials grid section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francodiaz7/bootstrap-foundation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francodiaz7/bootstrap-foundation/issues"
+  },
+  "homepage": "https://github.com/francodiaz7/bootstrap-foundation#readme"
+}
