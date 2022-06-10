@@ -4,7 +4,7 @@
   "description": "Respositorio para seguir el tutorial de bluuweb de Bootstrap. Frontend Mentor Testimonials grid section",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "purgecss --css sass/custom.css --content index.html -o css/reducido.css"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/francodiaz7/bootstrap-foundation/issues"
   },
-  "homepage": "https://github.com/francodiaz7/bootstrap-foundation#readme"
+  "homepage": "https://github.com/francodiaz7/bootstrap-foundation#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
 }
